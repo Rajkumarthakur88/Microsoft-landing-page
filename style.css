@@ -69,7 +69,7 @@ nav {
 .hero-section {
      width: 100vw;
      height: 90vh;
-     background-image: url(/assets/hero-section-img.2jpg.jpg);
+     background-image: url(hero-section-img.2jpg.jpg);
      background-size: 100%;
      background-repeat: no-repeat;
      display: flex;
@@ -242,7 +242,7 @@ nav {
 .microsoft-edge-bg {
      width: 90%;
      height: 95%;
-     background-image: url(/assets/microsoft-edge-bg.jpg);
+     background-image: url(microsoft-edge-bg.jpg);
      background-position: center;
      background-size: 100%;
      background-repeat: no-repeat;
