@@ -240,8 +240,12 @@
      }
 
 
-     .back-to-top {
-          justify-content: center;
-     }
+
+     .back-to-top a {
+        font-size: 10px;
+        bottom: 40px;
+        padding: 5px;
+      }
+      
 
 }
